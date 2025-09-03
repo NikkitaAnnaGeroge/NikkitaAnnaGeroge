@@ -57,11 +57,10 @@
   <a href="mailto:nikkitaannageorge8@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
 </p>
  <div align="center">
-   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=flat" alt="alwinjosegeorge" /></a> </p>
+  
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=NikkitaAnnaGeorge&theme=react-dark" alt="Nikkita"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=NikkitaAnnaGeroge&theme=react-dark" alt="Nikkita"/>
 </div>
 
 
