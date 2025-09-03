@@ -20,7 +20,20 @@
 - 📚 Currently learning **Python, C, JavaScript, HTML, and CSS**  
 
 ---
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
 
+
+## <img src="graph_bar.png" alt="GitHub Stats" width="30" height="30" style="vertical-align:middle"/> GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NikkitaAnnaGeroge&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikkitaAnnaGeroge&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkitaAnnaGeroge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
 ## 🛠️ Skills & Tools
 - **Languages:** Python, C, JavaScript, HTML, CSS  
 - **Web Development:** Responsive design, Website redesigns  
