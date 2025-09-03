@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Nikkita 👋  
 
-<!--
-**NikkitaAnnaGeroge/NikkitaAnnaGeroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate about **coding, design, and problem-solving**  
+💻 Exploring **Python, C Programming, Web Development, and Animations**  
+🎯 Always curious to learn new technologies and build creative projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Student & aspiring developer  
+- 🖥️ Interested in **web design, animations, and interactive projects**  
+- 💡 Love experimenting with **games, small utilities, and creative coding**  
+- 📚 Currently learning **Python, C, JavaScript, HTML, and CSS**  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, C, JavaScript, HTML, CSS  
+- **Web Development:** Responsive design, Website redesigns  
+- **Creative Projects:** Animations, Tic-Tac-Toe, To-Do List  
+- **Other Tools:** GitHub, Markdown, VS Code  
+
+---
+
+## 📌 Featured Projects
+- 🎮 **[Tic-Tac-Toe-Game](https://github.com/NikkitaAnnaGeroge/Tic-Tac-Toe-Game)** – A simple yet fun game built with HTML, CSS, and JS  
+- ✅ **[To-Do-List](https://github.com/NikkitaAnnaGeroge/To-Do-List)** – A task manager app to stay organized  
+- 🖼️ **[website-redesign](https://github.com/NikkitaAnnaGeroge/website-redesign)** – Modern redesign of a website project  
+- 📖 **[biography-page](https://github.com/NikkitaAnnaGeroge/biography-page)** – Personal creative web page project  
+
+👉 Check out all my projects here: [Repositories](https://github.com/NikkitaAnnaGeroge?tab=repositories)
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: *[your email here]*  
+- 💼 LinkedIn: *[your LinkedIn here]*  
+
+---
+
+✨ *“Code, Create, and Keep Learning!”* ✨
