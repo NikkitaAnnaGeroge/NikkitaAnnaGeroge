@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Nikkita Banner"/>
+</p>
 # Hi there, I'm Nikkita 👋  
 
 🌱 Passionate about **coding, design, and problem-solving**  
