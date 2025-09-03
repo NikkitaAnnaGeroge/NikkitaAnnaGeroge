@@ -18,8 +18,6 @@
 - 🖥️ Interested in **web design, animations, and interactive projects**  
 - 💡 Love experimenting with **games, small utilities, and creative coding**  
 - 📚 Currently learning **Python, C, JavaScript, HTML, and CSS**  
-
----
 <p align="center">
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
@@ -34,6 +32,7 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 </p>
+
 ## 🛠️ Skills & Tools
 - **Languages:** Python, C, JavaScript, HTML, CSS  
 - **Web Development:** Responsive design, Website redesigns  
@@ -56,6 +55,10 @@
  <a href="https://www.linkedin.com/in/nikkita-anna-george-a39807327" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="mailto:nikkitaannageorge8@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
 </p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
+
  <div align="center">
   
 
