@@ -1,7 +1,11 @@
 <p align="center">
   <img src="Banner.png" alt="Nikkita Banner"/>
 </p>
-# Hi there, I'm Nikkita 👋  
+
+
+<h1 align="center"style="font-family: Arial, Helvetica, Verdana;"
+>Hi there, I'm Nikkita 👋  
+</h1>
 
 🌱 Passionate about **coding, design, and problem-solving**  
 💻 Exploring **Python, C Programming, Web Development, and Animations**  
