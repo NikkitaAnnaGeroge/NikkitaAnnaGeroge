@@ -25,7 +25,7 @@
 </p>
 
 
-## <img src="graph_bar.png" alt="GitHub Stats" width="30" height="30" style="vertical-align:middle"/> GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NikkitaAnnaGeroge&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikkitaAnnaGeroge&theme=tokyonight&hide_border=true)<br/>
