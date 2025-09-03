@@ -45,8 +45,8 @@
 - 🎮 **[Tic-Tac-Toe-Game](https://github.com/NikkitaAnnaGeroge/Tic-Tac-Toe-Game)** – A simple yet fun game built with HTML, CSS, and JS  
 - ✅ **[To-Do-List](https://github.com/NikkitaAnnaGeroge/To-Do-List)** – A task manager app to stay organized  
 - 🖼️ **[website-redesign](https://github.com/NikkitaAnnaGeroge/website-redesign)** – Modern redesign of a website project  
-- 📖 **[biography-page](https://github.com/NikkitaAnnaGeroge/biography-page)** – Personal creative web page project 
- -🔗 **[SJCET URL Shortener](https://github.com/NikkitaAnnageroge/Sjcet-url-Shortner)** – A simple tool to shorten long URLs for easy sharing and access.
+- 📖 **[biography-page](https://github.com/NikkitaAnnaGeroge/biography-page)** – Personal creative web page project
+- 🔗 **[SJCET URL Shortener](https://github.com/NikkitaAnnageroge/Sjcet-url-Shortner)** – A simple tool to shorten long URLs for easy sharing and access.
 👉 Check out all my projects here: [Repositories](https://github.com/NikkitaAnnaGeroge?tab=repositories)
 
 ---
