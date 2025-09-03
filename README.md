@@ -4,7 +4,7 @@
 
 
 <h1 align="center"style="font-family: Arial, Helvetica, Verdana;"
->Hi there, I'm Nikkita 👋  
+>Hi there, I'm Nikkita Anna George  
 </h1>
 
 🌱 Passionate about **coding, design, and problem-solving**  
@@ -56,5 +56,27 @@
  <a href="https://www.linkedin.com/in/nikkita-anna-george-a39807327" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="mailto:nikkitaannageorge8@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
 </p>
+ <div align="center">
+   
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwinjosegeorge&theme=flat" alt="alwinjosegeorge" /></a> </p>
+
+<div align="center">
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=NikkitaAnnaGeorge&theme=react-dark" alt="Nikkita"/>
+</div>
+
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikkitaAnnaGeorge&label=Profile+Views&color=blueviolet&style=flat&labelColor=000000&abbreviated=true"
+    alt="Profile Views"/>
+</p>
+<p align="center" style="font-size: 14px; color: gray;">
+  © 2025 Nikkita Anna George — Designed & Maintained with Precision
+</p>
+
+
 
 ✨ *“Code, Create, and Keep Learning!”* ✨
