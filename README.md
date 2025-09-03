@@ -38,11 +38,10 @@
 👉 Check out all my projects here: [Repositories](https://github.com/NikkitaAnnaGeroge?tab=repositories)
 
 ---
-
-## 🌐 Connect with Me
-- 📧 Email: nikkitaannageorge8@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/nikkita-anna-george-a39807327
-
----
+### **Connect With Me**
+<p align="left">
+ <a href="https://www.linkedin.com/in/nikkita-anna-george-a39807327" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:nikkitaannageorge8@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
+</p>
 
 ✨ *“Code, Create, and Keep Learning!”* ✨
