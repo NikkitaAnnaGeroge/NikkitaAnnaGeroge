@@ -65,7 +65,16 @@
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=NikkitaAnnaGeroge&theme=react-dark" alt="Nikkita"/>
 </div>
-
+<br>
+<p align="center">
+  <a href="resume.pdf" target="_blank">
+    <img src="resume.png" alt="Resume Preview" width="300" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
+    <p align="center"><b>Want to see my resume? Just tap the image above!</b></p>
+  </a>
+ 
+</p>
+ 
+<br>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
