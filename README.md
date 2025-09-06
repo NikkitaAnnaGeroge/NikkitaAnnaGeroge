@@ -11,7 +11,9 @@
 💻 Exploring **Python, C Programming, Web Development, and Animations**  
 🎯 Always curious to learn new technologies and build creative projects  
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
 
 ## 🚀 About Me
 - 🎓 Student & aspiring developer  
@@ -39,7 +41,9 @@
 - **Creative Projects:** Animations, Tic-Tac-Toe, To-Do List  
 - **Other Tools:** GitHub, Markdown, VS Code  
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
 
 ## 📌 Featured Projects
 - 🎮 **[Tic-Tac-Toe-Game](https://github.com/NikkitaAnnaGeroge/Tic-Tac-Toe-Game)** – A simple yet fun game built with HTML, CSS, and JS  
@@ -49,7 +53,9 @@
 - 🔗 **[SJCET URL Shortener](https://github.com/NikkitaAnnageroge/Sjcet-url-Shortner)** – A simple tool to shorten long URLs for easy sharing and access.
 - 👉 Check out all my projects here: [Repositories](https://github.com/NikkitaAnnaGeroge?tab=repositories)
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+</p>
 ### **Connect With Me**
 <p align="left">
  <a href="https://www.linkedin.com/in/nikkita-anna-george-a39807327" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/></a>
