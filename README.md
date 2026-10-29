@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="./Banner.png" width="100%" alt="Nikkita Banner">
+  <img src="https://raw.githubusercontent.com/NikkitaAnnaGeroge/NikkitaAnnaGeroge/main/banner.png" width="100%" alt="Nikkita Anna George Banner">
 </p>
+
 
 
 <h1 align="center"style="font-family: Arial, Helvetica, Verdana;"
