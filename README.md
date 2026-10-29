@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Nikkita Banner"/>
+  <img src="./Banner.png" width="100%" alt="Nikkita Banner">
 </p>
 
 
